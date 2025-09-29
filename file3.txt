@@ -3,10 +3,11 @@ Guerra, pois eu não estou a conseguir sair daqui!!!!
 
 
 
-
-
-
-
-
-
 Estive aqui mais uma vez. Peace.
+
+<h2>Bebidas</h2>
+<ul>
+ <li>Coffee</li>
+ <li>Tea</li>
+ <li>Milk</li>
+</ul>
